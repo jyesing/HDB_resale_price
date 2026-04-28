@@ -1,7 +1,7 @@
 # HDB Resale Price Analysis 🏡
 
 ## Overview
-This project analyzes HDB resale transactions from 2017–2025.
+This project analyzes HDB resale transactions from 2017–2026.
 
 ## Key Insights
 - Central areas have higher prices
@@ -10,8 +10,8 @@ This project analyzes HDB resale transactions from 2017–2025.
 
 ## Model
 - Linear Regression used to predict resale price
-- MAE: XXXX
-- R²: XXXX
+- MAE: 91910
+- R²: 0.63
 
 ## Tools
 - Python
